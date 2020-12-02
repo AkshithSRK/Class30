@@ -1,2 +1,2 @@
-# Class30
-Angry Birds Stage 6. The pigs disappear now. use the space key to get the bird back to the slingshot.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
